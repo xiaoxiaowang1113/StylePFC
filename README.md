@@ -129,14 +129,5 @@ remaining categories.
 
 ## Citation
 
-When using the StyleID backbone, please cite:
 
-```bibtex
-@inproceedings{chung2024styleid,
-  author    = {Chung, Jiwoo and Hyun, Sangeek and Heo, Jae-Pil},
-  title     = {Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  year      = {2024},
-  pages     = {8795--8805}
-}
-```
+
