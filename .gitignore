@@ -22,7 +22,7 @@ venv/
 openai/
 
 # Inputs, caches, and generated artifacts
-data/
+
 precomputed/
 output/
 outputs/
