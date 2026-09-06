@@ -1,0 +1,203 @@
+{
+  "C1_Impressionist": {
+    "total_scanned": 20957,
+    "passed_quality": 20673,
+    "rejected": {
+      "grayscale_image": 254,
+      "extreme_aspect (3.9 > 3.0)": 1,
+      "extreme_aspect (3.1 > 3.0)": 3,
+      "extreme_aspect (3.4 > 3.0)": 6,
+      "extreme_aspect (3.0 > 3.0)": 7,
+      "extreme_aspect (3.3 > 3.0)": 8,
+      "extreme_aspect (3.5 > 3.0)": 1,
+      "extreme_aspect (3.8 > 3.0)": 1,
+      "extreme_aspect (3.6 > 3.0)": 1,
+      "extreme_aspect (4.0 > 3.0)": 1,
+      "extreme_aspect (5.0 > 3.0)": 1
+    },
+    "n_selected": 50,
+    "n_unique_artists": 44,
+    "substyle_coverage": {
+      "Fauvism": 2,
+      "Impressionism": 27,
+      "Pointillism": 3,
+      "Post_Impressionism": 18
+    }
+  },
+  "C2_Expressionist": {
+    "total_scanned": 11231,
+    "passed_quality": 10506,
+    "rejected": {
+      "grayscale_image": 637,
+      "extreme_aspect (4.1 > 3.0)": 4,
+      "extreme_aspect (3.8 > 3.0)": 2,
+      "extreme_aspect (3.2 > 3.0)": 14,
+      "extreme_aspect (3.3 > 3.0)": 5,
+      "extreme_aspect (3.6 > 3.0)": 4,
+      "extreme_aspect (4.4 > 3.0)": 2,
+      "extreme_aspect (3.1 > 3.0)": 9,
+      "extreme_aspect (4.3 > 3.0)": 2,
+      "extreme_aspect (3.5 > 3.0)": 7,
+      "extreme_aspect (7.0 > 3.0)": 1,
+      "extreme_aspect (4.8 > 3.0)": 2,
+      "extreme_aspect (6.6 > 3.0)": 2,
+      "extreme_aspect (5.9 > 3.0)": 6,
+      "extreme_aspect (7.8 > 3.0)": 1,
+      "extreme_aspect (10.1 > 3.0)": 1,
+      "extreme_aspect (11.2 > 3.0)": 2,
+      "extreme_aspect (3.7 > 3.0)": 2,
+      "extreme_aspect (3.9 > 3.0)": 2,
+      "extreme_aspect (4.6 > 3.0)": 1,
+      "file_too_small (42KB < 50.0KB)": 1,
+      "extreme_aspect (10.3 > 3.0)": 1,
+      "extreme_aspect (4.5 > 3.0)": 1,
+      "extreme_aspect (5.5 > 3.0)": 2,
+      "extreme_aspect (4.9 > 3.0)": 2,
+      "extreme_aspect (6.1 > 3.0)": 1,
+      "extreme_aspect (8.0 > 3.0)": 1,
+      "extreme_aspect (3.4 > 3.0)": 3,
+      "extreme_aspect (8.6 > 3.0)": 1,
+      "extreme_aspect (4.2 > 3.0)": 1,
+      "extreme_aspect (11.4 > 3.0)": 1,
+      "extreme_aspect (5.3 > 3.0)": 1,
+      "extreme_aspect (12.9 > 3.0)": 1,
+      "extreme_aspect (5.7 > 3.0)": 1,
+      "extreme_aspect (3.0 > 3.0)": 1
+    },
+    "n_selected": 50,
+    "n_unique_artists": 19,
+    "substyle_coverage": {
+      "Abstract_Expressionism": 6,
+      "Action_painting": 1,
+      "Color_Field_Painting": 5,
+      "Expressionism": 38
+    }
+  },
+  "C3_Geometric": {
+    "total_scanned": 6895,
+    "passed_quality": 6403,
+    "rejected": {
+      "grayscale_image": 464,
+      "extreme_aspect (3.4 > 3.0)": 4,
+      "extreme_aspect (3.1 > 3.0)": 9,
+      "extreme_aspect (3.3 > 3.0)": 1,
+      "extreme_aspect (3.2 > 3.0)": 2,
+      "extreme_aspect (3.0 > 3.0)": 2,
+      "extreme_aspect (4.0 > 3.0)": 3,
+      "extreme_aspect (4.1 > 3.0)": 1,
+      "extreme_aspect (3.9 > 3.0)": 2,
+      "extreme_aspect (3.6 > 3.0)": 1,
+      "extreme_aspect (4.7 > 3.0)": 1,
+      "extreme_aspect (4.4 > 3.0)": 1,
+      "extreme_aspect (5.9 > 3.0)": 1
+    },
+    "n_selected": 50,
+    "n_unique_artists": 33,
+    "substyle_coverage": {
+      "Analytical_Cubism": 4,
+      "Art_Nouveau": 29,
+      "Cubism": 15,
+      "Synthetic_Cubism": 2
+    }
+  },
+  "C4_Decorative": {
+    "total_scanned": 12136,
+    "passed_quality": 11693,
+    "rejected": {
+      "grayscale_image": 414,
+      "extreme_aspect (3.4 > 3.0)": 3,
+      "extreme_aspect (3.2 > 3.0)": 5,
+      "extreme_aspect (3.0 > 3.0)": 1,
+      "extreme_aspect (3.6 > 3.0)": 3,
+      "extreme_aspect (5.4 > 3.0)": 1,
+      "extreme_aspect (3.5 > 3.0)": 2,
+      "extreme_aspect (4.1 > 3.0)": 1,
+      "extreme_aspect (3.7 > 3.0)": 2,
+      "extreme_aspect (4.0 > 3.0)": 1,
+      "extreme_aspect (3.1 > 3.0)": 7,
+      "extreme_aspect (3.3 > 3.0)": 3
+    },
+    "n_selected": 50,
+    "n_unique_artists": 40,
+    "substyle_coverage": {
+      "Baroque": 11,
+      "Mannerism_Late_Renaissance": 6,
+      "Rococo": 5,
+      "Symbolism": 28
+    }
+  },
+  "C5_Realistic": {
+    "total_scanned": 23038,
+    "passed_quality": 20458,
+    "rejected": {
+      "extreme_aspect (6.9 > 3.0)": 1,
+      "extreme_aspect (4.4 > 3.0)": 1,
+      "extreme_aspect (3.0 > 3.0)": 14,
+      "grayscale_image": 2486,
+      "extreme_aspect (4.1 > 3.0)": 3,
+      "extreme_aspect (3.3 > 3.0)": 14,
+      "extreme_aspect (3.2 > 3.0)": 11,
+      "extreme_aspect (3.8 > 3.0)": 6,
+      "extreme_aspect (4.0 > 3.0)": 2,
+      "extreme_aspect (3.6 > 3.0)": 4,
+      "extreme_aspect (3.4 > 3.0)": 7,
+      "extreme_aspect (3.1 > 3.0)": 12,
+      "extreme_aspect (5.2 > 3.0)": 1,
+      "extreme_aspect (3.7 > 3.0)": 5,
+      "extreme_aspect (4.3 > 3.0)": 1,
+      "extreme_aspect (3.9 > 3.0)": 2,
+      "extreme_aspect (3.5 > 3.0)": 2,
+      "extreme_aspect (4.8 > 3.0)": 2,
+      "extreme_aspect (5.6 > 3.0)": 1,
+      "extreme_aspect (6.3 > 3.0)": 1,
+      "extreme_aspect (4.9 > 3.0)": 2,
+      "extreme_aspect (5.1 > 3.0)": 1,
+      "too_small (750x597, min_edge=597 < 768)": 1
+    },
+    "n_selected": 50,
+    "n_unique_artists": 44,
+    "substyle_coverage": {
+      "Early_Renaissance": 2,
+      "High_Renaissance": 4,
+      "Northern_Renaissance": 6,
+      "Realism": 26,
+      "Romanticism": 12
+    }
+  },
+  "C6_Modern": {
+    "total_scanned": 7187,
+    "passed_quality": 6720,
+    "rejected": {
+      "grayscale_image": 408,
+      "extreme_aspect (3.3 > 3.0)": 7,
+      "extreme_aspect (3.5 > 3.0)": 2,
+      "extreme_aspect (3.0 > 3.0)": 10,
+      "extreme_aspect (4.1 > 3.0)": 1,
+      "file_too_small (45KB < 50.0KB)": 4,
+      "file_too_small (49KB < 50.0KB)": 1,
+      "file_too_small (46KB < 50.0KB)": 1,
+      "extreme_aspect (3.1 > 3.0)": 12,
+      "extreme_aspect (3.4 > 3.0)": 5,
+      "extreme_aspect (5.9 > 3.0)": 1,
+      "extreme_aspect (5.2 > 3.0)": 1,
+      "extreme_aspect (3.9 > 3.0)": 1,
+      "file_too_small (48KB < 50.0KB)": 1,
+      "extreme_aspect (4.2 > 3.0)": 2,
+      "extreme_aspect (3.7 > 3.0)": 2,
+      "extreme_aspect (3.2 > 3.0)": 5,
+      "extreme_aspect (5.4 > 3.0)": 1,
+      "extreme_aspect (3.6 > 3.0)": 1,
+      "extreme_aspect (4.5 > 3.0)": 1
+    },
+    "n_selected": 50,
+    "n_unique_artists": 18,
+    "substyle_coverage": {
+      "Contemporary_Realism": 4,
+      "Minimalism": 4,
+      "Naive_Art_Primitivism": 32,
+      "New_Realism": 1,
+      "Pop_Art": 3,
+      "Ukiyo_e": 6
+    }
+  }
+}

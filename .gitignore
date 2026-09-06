@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments and editors
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Models and downloaded assets
+*.ckpt
+*.safetensors
+*.pt
+*.pth
+*.part
+*.incomplete.*
+*.invalid.*
+openai/
+
+# Inputs, caches, and generated artifacts
+data/
+precomputed/
+output/
+outputs/
+logs/
+log/
+quarantine/
+evaluation/weights/
+*.pkl
+*.part.png
+
+# Local archives and system files
+*.zip
+*.tar
+*.tar.gz
+.DS_Store
+Thumbs.db

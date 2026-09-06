@@ -1,0 +1,2 @@
+datasets==2.19.2
+Pillow>=9.0

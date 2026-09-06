@@ -1,0 +1,104 @@
+{
+  "C1_Impressionist": {
+    "total_candidates": 50,
+    "rejected": 10,
+    "kept": 40,
+    "rejected_files": [
+      "edgar-degas_002329.jpg",
+      "georges-braque_057324.jpg",
+      "henri-matisse_029143.jpg",
+      "ilya-mashkov_061457.jpg",
+      "ilya-repin_010918.jpg",
+      "pierre-auguste-renoir_001462.jpg",
+      "raoul-dufy_055089.jpg",
+      "salvador-dali_015478.jpg",
+      "theo-van-rysselberghe_052019.jpg",
+      "william-merritt-chase_045992.jpg"
+    ]
+  },
+  "C2_Expressionist": {
+    "total_candidates": 50,
+    "rejected": 10,
+    "kept": 40,
+    "rejected_files": [
+      "amedeo-modigliani_050456.jpg",
+      "amedeo-modigliani_057212.jpg",
+      "edvard-munch_024650.jpg",
+      "egon-schiele_032656.jpg",
+      "ernst-ludwig-kirchner_023636.jpg",
+      "ernst-ludwig-kirchner_039935.jpg",
+      "ernst-ludwig-kirchner_057247.jpg",
+      "lucian-freud_057366.jpg",
+      "m.c.-escher_057180.jpg",
+      "zinaida-serebriakova_026667.jpg"
+    ]
+  },
+  "C3_Geometric": {
+    "total_candidates": 50,
+    "rejected": 10,
+    "kept": 40,
+    "rejected_files": [
+      "felix-vallotton_029937.jpg",
+      "ivan-bilibin_031404.jpg",
+      "jacek-malczewski_039748.jpg",
+      "koloman-moser_022562.jpg",
+      "konstantin-somov_062739.jpg",
+      "m.c.-escher_043022.jpg",
+      "mikhail-vrubel_064156.jpg",
+      "pyotr-konchalovsky_011948.jpg",
+      "valentin-serov_026859.jpg",
+      "zinaida-serebriakova_036208.jpg"
+    ]
+  },
+  "C4_Decorative": {
+    "total_candidates": 50,
+    "rejected": 10,
+    "kept": 40,
+    "rejected_files": [
+      "gustave-moreau_028821.jpg",
+      "henri-fantin-latour_040429.jpg",
+      "jacob-jordaens_038207.jpg",
+      "odilon-redon_044763.jpg",
+      "paolo-veronese_046874.jpg",
+      "rembrandt_005207.jpg",
+      "tintoretto_049460.jpg",
+      "tintoretto_064050.jpg",
+      "titian_036521.jpg",
+      "titian_064759.jpg"
+    ]
+  },
+  "C5_Realistic": {
+    "total_candidates": 50,
+    "rejected": 10,
+    "kept": 40,
+    "rejected_files": [
+      "eugene-delacroix_062445.jpg",
+      "henri-matisse_045286.jpg",
+      "leonardo-da-vinci_029023.jpg",
+      "lucas-cranach-the-elder_045082.jpg",
+      "michelangelo_055730.jpg",
+      "pablo-picasso_018892.jpg",
+      "paul-cezanne_017096.jpg",
+      "pyotr-konchalovsky_018604.jpg",
+      "raphael_056842.jpg",
+      "thomas-eakins_063166.jpg"
+    ]
+  },
+  "C6_Modern": {
+    "total_candidates": 50,
+    "rejected": 10,
+    "kept": 40,
+    "rejected_files": [
+      "andy-warhol_064629.jpg",
+      "andy-warhol_065954.jpg",
+      "boris-kustodiev_016800.jpg",
+      "david-burliuk_031650.jpg",
+      "david-burliuk_053823.jpg",
+      "lucian-freud_057405.jpg",
+      "maurice-prendergast_027093.jpg",
+      "maurice-prendergast_056573.jpg",
+      "raoul-dufy_028909.jpg",
+      "utagawa-kuniyoshi_048010.jpg"
+    ]
+  }
+}

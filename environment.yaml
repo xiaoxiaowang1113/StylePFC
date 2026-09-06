@@ -1,0 +1,33 @@
+name: stylepfc
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.8.5
+  - pip=20.3
+  - cudatoolkit=11.3
+  - pytorch=1.11.0
+  - torchvision=0.12.0
+  - numpy=1.19.2
+  - pip:
+      - albumentations==0.4.3
+      - diffusers
+      - einops==0.3.0
+      - imageio==2.9.0
+      - imageio-ffmpeg==0.4.2
+      - invisible-watermark
+      - kornia==0.6
+      - lpips
+      - omegaconf==2.1.1
+      - opencv-python==4.1.2.30
+      - pudb==2019.2
+      - pytorch-lightning==1.4.2
+      - requests==2.24.0
+      - scikit-learn==1.1.1
+      - streamlit==0.73.1
+      - test-tube>=0.7.5
+      - torch-fidelity==0.3.0
+      - torchmetrics==0.6.0
+      - transformers==4.19.2
+      - git+https://github.com/openai/CLIP.git@ded190a052fdf4585bd685cee5bc96e0310d2c93
+      - git+https://github.com/CompVis/taming-transformers.git@3ba01b241669f5ade541ce990f7650a3b8f65318
